@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 
 const VideoCard = ({ data }) => {
-  console.log(data);
+  //console.log(data);
   const { snippet, statistics } = data;
   return (
     <Fragment>
